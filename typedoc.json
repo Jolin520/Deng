@@ -1,0 +1,4 @@
+{
+    "entryPoints": ["./App.tsx"],
+    "out": "docs"
+}
